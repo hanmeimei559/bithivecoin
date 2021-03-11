@@ -1,1 +1,2 @@
 # bithivecoin
+bithivecoin Official issue
